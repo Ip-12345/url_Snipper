@@ -4,7 +4,7 @@ import AppLayout from './layouts/app-layout';
 import LandingPage from './pages/landingpage';
 import Dashboard from './pages/dashboard';
 import Auth from './pages/auth';
-import Redirect from './pages/Redirect';
+import Redirect from './pages/redirect';
 import UrlProvider from './context';
 import RequireAuth from './components/require-auth';
 import Link from './pages/link';
